@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I'm Logan (Xin) Zhang, a Research Assistant in Medical Image Analysis at University of Nottingham, UK. I obtained my DPhil in Engineering Science (Biomedical Engineering) at University of Oxford in 2022. Before that, I graduated from Shanghai Jiao Tong University in 2018 with a Bachelor of Science (Biomedical Engineering) degree. 
 - I'm currently working on image analysis of arterial spin labelling (ASL) magnetic resonance imaging (MRI).
-- How to reach me: logan.zhang@nottingham.ac.uk
+- How to reach me: logan.zhang@quantified-imaging.com
 
 <!--
 **logannii/logannii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
